@@ -14,5 +14,4 @@ void main() {
   firstResult = addNumber(5, 2);
   print(firstResult);
   print('Hello World!');
-  print('Hello')
-}
+ }
