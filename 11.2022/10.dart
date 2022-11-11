@@ -5,9 +5,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: (Text('Hemllo!')),
-    );
+  Widget build(BuildContext ) {
+    return MaterialApp(home: Text('Hello!'),);
   }
 }
